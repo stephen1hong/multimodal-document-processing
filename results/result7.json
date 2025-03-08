@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "description": "Laboratory services",
+            "quantity": "1",
+            "price": "18,861.00",
+            "total": "18,861.00"
+        },
+        {
+            "description": "Diagnostic/therapeutic imaging",
+            "quantity": "1",
+            "price": "95,727.00",
+            "total": "95,727.00"
+        },
+        {
+            "description": "Pharmacy",
+            "quantity": "1",
+            "price": "33,719.00",
+            "total": "33,719.00"
+        },
+        {
+            "description": "Special care unit",
+            "quantity": "1",
+            "price": "9,342.00",
+            "total": "9,342.00"
+        },
+        {
+            "description": "supplies",
+            "quantity": "1",
+            "price": "33,798.00",
+            "total": "33,798.00"
+        },
+        {
+            "description": "Emergency Room",
+            "quantity": "1",
+            "price": "7,648.00",
+            "total": "7,648.00"
+        }
+    ]
+}

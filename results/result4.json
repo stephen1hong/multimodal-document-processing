@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "description": "Photography service",
+            "quantity": "1",
+            "price": "500",
+            "total": "500"
+        },
+        {
+            "description": "Videography service",
+            "quantity": "1",
+            "price": "1000",
+            "total": "1000"
+        },
+        {
+            "description": "Video editing",
+            "quantity": "2",
+            "price": "250",
+            "total": "500"
+        },
+        {
+            "description": "Transportation fee",
+            "quantity": "1",
+            "price": "100",
+            "total": "100"
+        }
+    ]
+}
